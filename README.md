@@ -1,4 +1,4 @@
-#HORSE & COIN
+# HORSE & COIN
 
 Projeto de um jogo 2d desenvolvido em C# e Framework MONOGAME pelos alunos da faculdade Uninassau.
 
