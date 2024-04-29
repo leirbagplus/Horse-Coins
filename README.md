@@ -8,7 +8,7 @@ Projeto de um jogo 2d desenvolvido em C# e Framework MONOGAME pelos alunos da fa
 Como cobradores, o cavalo e o seu amigo guerreiro precisam coletas os tributos do seu reino. Contudo, ao tentar pega-los, percebem que as moedas estão vivas. Agora, com as moedas correndo e instaurando o caos pelo reino, cavalo e guerreiro precisam pega-las o mais rápido possível, para assim salvar o mundo... ou algo assim.<br>
 <h2 align="center">Objetivo</h2><br>
 Pegar todas as moedas no mapa e voltar para o castelo.<br>
-<h2 align="center"></h2><br>
+<h2 align="center"> Alunos </h2><br>
 
         Gabriel Pacheco Farias- 01427378",
         George Jose Cesar da Silva- 01430653",
