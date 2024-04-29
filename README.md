@@ -1,6 +1,5 @@
-<P align= "center">
+
         ![casa_default](https://github.com/leirbagplus/Horse-and-Coins/assets/131388531/2d6568f0-048c-4e47-83ec-7fa7d552e408)
-</P>
 <h1 # HORSE & COIN>
     # HORSE & COIN    
 </h1>
@@ -16,7 +15,6 @@ Pegar todas as moedas no mapa e voltar para o castelo.<br>
         Israel Allan Vilela Viegas - 01433868",
         Marcos Antonio de Ferreira Guimaraes- 01405752",
         Pedro Augusto Cardoso Silva - 01403875"
-<p align="center">
-        ![cobradordesign copy](https://github.com/leirbagplus/Horse-and-Coins/assets/131388531/05dec548-e5b9-4bc3-8e6c-a1bfb7a53cab)
 
-</p>
+ ![cobradordesign copy](https://github.com/leirbagplus/Horse-and-Coins/assets/131388531/05dec548-e5b9-4bc3-8e6c-a1bfb7a53cab)
+
