@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Font/Font.spritefont</SourceFile>
+  <SourceTime>2022-07-26T08:44:10-03:00</SourceTime>
+  <DestFile>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/bin/DesktopGL/Content/Font/Font.xnb</DestFile>
+  <DestTime>2024-04-29T02:50:05.4522996-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T08:44:56-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

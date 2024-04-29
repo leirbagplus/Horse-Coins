@@ -1,0 +1,197 @@
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.exe
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.deps.json
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.runtimeconfig.json
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.pdb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\MonoGame.Framework.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.AssemblyReference.cache
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.GeneratedMSBuildEditorConfig.editorconfig
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfoInputs.cache
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfo.cs
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.CoreCompileInputs.cache
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCo.F6BDAC2D.Up2Date
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\refint\HorseeCoins.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.pdb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.genruntimeconfig.cache
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\obj\Debug\net6.0\ref\HorseeCoins.dll
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\background.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\bandeira.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\black.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\coin.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitred.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitwhite.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\floor.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonte.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonteWin.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\playerIdle.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playred.xnb
+d:\Atual\Programação\C#\MonoGame\Horse & Coins\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playwhite.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\background.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\bandeira.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\black.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\coin.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitred.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitwhite.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\floor.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonte.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonteWin.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\playerIdle.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playred.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playwhite.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.exe
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.deps.json
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.pdb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCo.F6BDAC2D.Up2Date
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\refint\HorseeCoins.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.pdb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\obj\Debug\net6.0\ref\HorseeCoins.dll
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda1_idle.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_damage.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_death.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_left_attack.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_left_walk.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_right_walk.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_Spawn.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Controls\Button.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Fonts\Font.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Font\Font.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_damage_com_cor.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_default_pose.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_idle.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_side_Jump.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_side_walk.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background completo.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background final.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\casas.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\Clouds_Fast.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\Clouds_Slow.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fumaca_frente.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fumaca_tras.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_fundo.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_meio.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_sem_nuvem.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\piso_fundo.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\background.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\reta_ouro.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\portal.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\platform1.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\platform2.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_creditos.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_jogar.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_sair.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\Horse.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda1_linda.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Fonts\fonteWin.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background_logo2.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_jump.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\retaDez.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\ouro_meio.xnb
+C:\Users\pedro\OneDrive\Documentos\Programação\Monogame\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\casa_castelo.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\background.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\bandeira.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\black.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\coin.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitred.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Exitwhite.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\floor.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonte.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\fonteWin.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\playerIdle.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playred.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\asset\Playwhite.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda1_idle.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda1_linda.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_damage.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_death.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_left_attack.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_left_walk.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_right_walk.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Coin\moeda_Spawn.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Controls\Button.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Fonts\Font.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Fonts\fonteWin.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Font\Font.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_damage_com_cor.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_default_pose.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_idle.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_jump.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_side_Jump.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\Player\cobrador_side_walk.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background completo.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background final.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\background_logo2.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\casas.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\Clouds_Fast.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\Clouds_Slow.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fumaca_frente.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fumaca_tras.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_fundo.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_meio.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\fundo_sem_nuvem.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\ScrollingBackgrounds\piso_fundo.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\background.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_creditos.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_jogar.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\botao_sair.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\casa_castelo.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\Horse.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\ouro_meio.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\platform1.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\platform2.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\portal.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\retaDez.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\Content\TileMap\reta_ouro.xnb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.exe
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.deps.json
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.runtimeconfig.json
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\HorseeCoins.pdb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\MonoGame.Framework.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.AssemblyReference.cache
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfoInputs.cache
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.AssemblyInfo.cs
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.csproj.CoreCompileInputs.cache
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCo.F6BDAC2D.Up2Date
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\refint\HorseeCoins.dll
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.pdb
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\HorseeCoins.genruntimeconfig.cache
+c:\Users\georg\OneDrive\Área de Trabalho\HorseeCoins\HorseeCoins\obj\Debug\net6.0\ref\HorseeCoins.dll

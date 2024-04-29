@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_damage.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_death.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_left_attack.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_left_walk.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_right_walk.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda_Spawn.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda1_idle.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Coin/moeda1_linda.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Controls/Button.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Font/Font.spritefont</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Fonts/Font.spritefont</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Fonts/fonteWin.spritefont</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_damage_com_cor.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_default_pose.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_idle.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_jump.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_side_Jump.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/Player/cobrador_side_walk.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/background completo.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/background final.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/background_logo2.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/background.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/casas.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/Clouds_Fast.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/Clouds_Slow.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/fumaca_frente.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/fumaca_tras.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/fundo_fundo.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/fundo_meio.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/fundo_sem_nuvem.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/ScrollingBackgrounds/piso_fundo.jpg</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/background.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/botao_creditos.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/botao_jogar.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/botao_sair.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/casa_castelo.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/Horse.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/ouro_meio.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/platform1.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/platform2.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/portal.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/reta_ouro.png</File>
+    <File>c:/Users/georg/OneDrive/Área de Trabalho/HorseeCoins/HorseeCoins/Content/TileMap/retaDez.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
